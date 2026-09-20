@@ -54,8 +54,6 @@ I trained the MobileNetV2-based classifier in Google Colab using a hand-gesture 
 python realtime_prediction.py
 ```
 
-Prefer a minimal interface? Run `python realtime_prediction_simple_ui.py` instead — same recognition logic, plainer overlay.
-
 Keep your hand inside the green box. Press `q` to close the webcam window.
 
 ## Notes
