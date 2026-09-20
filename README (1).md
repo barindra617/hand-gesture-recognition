@@ -74,7 +74,6 @@ Keep your hand inside the green box. Press `q` to close the webcam window.
 ## Notes
 
 - Ensure that your webcam is connected and available to the application.
-- The model file is included because it is small enough for a standard GitHub repository.
 - The `venv` folder is intentionally excluded from Git; each user should create their own environment.
 
 ## Known limitations
