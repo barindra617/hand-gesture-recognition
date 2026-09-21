@@ -28,7 +28,7 @@ A Python application that recognizes hand gestures in real time from a webcam fe
 
 ## Development and Attribution
 
-I trained the MobileNetV2-based classifier in Google Colab, using a hand-gesture dataset sourced from Kaggle (transfer learning, data preprocessing, and evaluation were all done by me). I also built the entire real-time application around it — webcam integration, image preprocessing, confidence filtering, gesture display, and the smoothing logic that stabilizes predictions frame to frame.
+I trained the MobileNetV2-based classifier in Google Colab, using a hand-gesture dataset sourced from Kaggle (transfer learning, data preprocessing, and evaluation were done by me). I also built the entire real-time application around it — webcam integration, image preprocessing, confidence filtering, gesture display, and the smoothing logic that stabilizes predictions frame to frame.
 
 - **Dataset:** [Gestures Hand](https://www.kaggle.com/datasets/kritanjalijain/gestures-hand) by Kaggle user `kritanjalijain`.
 - **Model:** MobileNetV2, fine-tuned by me on the dataset above (see `kaggle_mobilenet_model.keras`).
