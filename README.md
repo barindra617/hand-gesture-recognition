@@ -5,7 +5,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8-green?logo=opencv&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A Python application that recognizes hand gestures in real time from a webcam feed, using a MobileNetV2 classifier that I trained myself and integrated into a live OpenCV pipeline.
+A Python application that recognizes hand gestures in real time from a webcam feed, using a MobileNetV2 classifier that I trained and integrated into a live OpenCV pipeline.
 
 ## Table of Contents
 
